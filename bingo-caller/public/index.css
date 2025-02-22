@@ -1,0 +1,4 @@
+@font-face {
+  font-family: 'Digital';
+  src: local('Digital'), url('./fonts/Digital.TTF') format('truetype');
+}
